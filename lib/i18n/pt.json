@@ -50,10 +50,9 @@
   },
   "units" : [
     {
-      "singular": "cento",
+      "singular": "сто",
       "useBaseInstead": true,
-      "useBaseException": [1],
-      "andException": true
+      "useBaseException": [1]
     },
     {
       "singular": "mil",
